@@ -1,0 +1,209 @@
+{
+  "name": "Trilok Nath",
+  "label": "Data Scientist",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "SharmaTrilokNath336@gmail.com",
+    "phone": "",
+    "location": "Gurgaon, Haryana, India"
+  },
+"summary": "Results-driven Data Scientist with 6+ years of experience in software development and data science, currently at IBM in Gurgaon. Expertise in Generative AI, Multiagents, MCP Servers, RAG, Azure, GCP, SQL, and Python, delivering high-impact solutions that drive business transformation. Proven success in integrating Odoo ERP with accounting tools at Webkul Software and developing ERP systems and e-commerce platforms at Chadha Industries. Known for a passion for continuous learning, innovation, and effective teamwork.",
+  "url": "https://trilokns.com",
+  "social_links": [
+    {
+      "label": "trilokns.com",
+      "url": "website.html",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@talkwithdata",
+      "svg_path": "img/youtube.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/trilok-nath-171072183/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/sharmatriloknath",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "IBM India Pvt. Ltd.",
+      "position": "Data Scientist",
+      "url": "https://www.ibm.com/in-en",
+      "start_date": "2022",
+      "end_date": "present",
+      "summary": "",
+      "highlights": [
+        "Content Generation System (CGS) : Spearheaded the development of an automated product that cut down regulatory approval document processing time by 80%, reducing it from several months to just a few weeks. Deployed successfully on the client's Azure Cloud, accelerating regulatory workflows.",
+        "Chat Virtual Agent Pilot : Contributed to the development of a Virtual Agent that enhanced digital self-service using WatsonX Assistant and LLMs. Key achievements include a 50% reduction in the number of clicks required to find relevant information on the website, improving user experience and support efficiency.",
+        "GenAI ABCOrder : Co-developed a Generative AI solution that increased order placement efficiency by 25%. Delivered impactful features like automated data extraction, product description enhancements, and a RAG-powered virtual assistant, significantly optimizing the customer experience."
+      ]
+    },
+    {
+      "company": "Webkul Software Pvt. Ltd.",
+      "position": "Software Engineer",
+      "url": "https://webkul.com/",
+      "start_date": "2021",
+      "end_date": "2022",
+      "summary": "",
+      "highlights": [
+        "Engineered connectors that automated the integration of accounting software (FreshBooks, Xero, Zoho) with odoo ERP, reducing manual data entry time by 50%.",
+        "Implemented real-time data synchronization between Odoo ERP and e-commerce platforms (Prestashop), enhancing data accuracy and improving transaction processing speed by 20%",
+        "Optimized system performance through debugging and feature enhancements, increasing overall platform efficiency by 10%"
+      ]
+    },
+    {
+      "company": "Chadha Industries Pvt. Ltd.",
+      "position": "Software Engineer",
+      "url": "https://www.arkegroup.com/#home",
+      "start_date": "2019",
+      "end_date": "2021",
+      "summary": "",
+      "highlights": [
+        "Developed and launched web applications on Azure Cloud, which reduced operational costs by 20% due to optimized cloud resource allocation and performance.",
+        "Customized Odoo ERP modules, leading to 25% improvement in business process efficiency and tailored functionality to meet specific business needs.",
+        "Built and deployed microservices-based web applications, ensuring seamless integration with REST APIs, improving response times and scalability by 30%"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Educational Content Creator on YouTube",
+      "summary": "Started Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
+      "url": "https://www.youtube.com/@talkwithdata",
+      "highlights": ["Python Hidden Tricks"],
+      "images": [
+        {
+          "img_path": "portfolio_media/yt1.jpg",
+          "caption": "Lambda Hidden Tricks"
+        },
+        {
+          "img_path": "portfolio_media/yt2.jpg",
+          "caption": "Global Variables in Python"
+        },
+        {
+          "img_path": "portfolio_media/yt3.jpg",
+          "caption": "Pandas Clipboard"
+        }
+      ]
+    },
+
+    {
+      "title": "SpaceX Falcon 9  First Stage Landing Prediction",
+      "summary": "Developed a machine learning model to predict the landing outcome of SpaceX Falcon 9 first stage using flight data. Achieved an accuracy of 94% by training the model on 1000+ flight records.",
+      "url": "https://github.com/sharmatriloknath/SpaceX-Falcon-9-first-stage-Landing-Prediction",
+      "highlights": ["In this capstone, we will predict if the Falcon 9 first stage will land successfully","SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage.","If we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch."],
+      "images": [
+        {
+          "img_path": "portfolio_media/Dashboard.png",
+          "caption": "Dashboard"
+        },
+        {
+          "img_path": "portfolio_media/Final Dashboard.png",
+          "caption": "Final Dashboard"
+        }
+      ]
+    }
+  ],
+  "awards_and_certifications": [
+    {
+      "organization": "IBM",
+      "position": "Entrepreneur Award - 2024",
+      "url": "",
+      "start_date": "2024",
+      "end_date": "2025",
+      "summary": "Awarded for delivering exceptional solutions, driving innovation, and making key contributions to high-impact projects.",
+      "highlights": []
+    },
+    {
+      "organization": "IBM",
+      "position": "IBMer Appreciation - 2023",
+      "url": "",
+      "start_date": "2023",
+      "end_date": "2024",
+      "summary": "Recognized for demonstrating outstanding teamwork and impactful contributions to cross-functional projects.",
+      "highlights": []
+    },
+    {
+      "organization": "Microsoft Azure Cloud",
+      "position": "Microsoft Certified: Azure Fundamentals",
+      "url": "https://www.credly.com/badges/f8faad20-f417-4b06-b9e1-6d92a7f81039/linked_in_profile",
+      "start_date": "2022",
+      "end_date": "Never",
+      "summary": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+      "highlights": []
+    },
+    {
+      "organization": "Microsoft Azure Cloud",
+      "position": "Microsoft Certified: Azure AI Fundamentals",
+      "url": "https://www.credly.com/badges/f8faad20-f417-4b06-b9e1-6d92a7f81039/linked_in_profile",
+      "start_date": "2024",
+      "end_date": "Never",
+      "summary": "Demonstrate fundamental AI concepts related to the development of software and services of Microsoft Azure to create AI solutions.",
+      "highlights": []
+    },
+    {
+      "organization": "Microsoft Azure Cloud",
+      "position": "Microsoft Certified: Azure Data Fundamentals",
+      "url": "https://learn.microsoft.com/en-us/users/triloknath-3247/credentials/d0263382d7298e16?ref=https%3A%2F%2Fwww.linkedin.com%2F",
+      "start_date": "2024",
+      "end_date": "Never",
+      "summary": "Demonstrate foundational knowledge of core data concepts related to Microsoft Azure data services.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kurukshetra University Kurukshetra",
+      "location": "Kurukshetra, Haryana, India",
+      "url": "https://kuk.ac.in/",
+      "degrees": [
+        "Bachelor of Computer Science and Engineering","Minor in Mathematics"],
+      "honors": [
+        "2015 Outstanding Student Award",
+        "2014 PMSSS Scholarship"
+      ],
+      "gpa_major": "8.1",
+      "graduation_date": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "name": "GenerativeAI: Multiagents(autogen, crewai, langgraph etc.), MCP Servers, RAG, Vector databases(chromadb, weaviate, etc.)",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Cloud: Azure, GCP",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "Machine Learning, Deep Learning",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Python, FastAPI, Django, SQL",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    }
+  ],
+  "interests": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native Speaker"
+    }],
+  "references": []
+}
